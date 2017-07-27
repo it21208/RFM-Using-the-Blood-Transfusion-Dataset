@@ -5,7 +5,7 @@
 RUN_TYPE <- "TEST"  # TRAINING , TEST
 RUN_TITLE <- paste("BLOOD TRANSFUSION RFM", RUN_TYPE, "DATASET")
 # Data File constants
-CustMasterDSFile <- "transfusion.data.txt"
+CustMasterDSFile <- "transfusion.data.full.txt"
 TrainingDSFile <- "transfusion.trainingdata.txt"
 TestDSFile <- "transfusion.testdata.txt"
 # Data Frame Column Name constants
